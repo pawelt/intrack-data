@@ -1,0 +1,31 @@
+ODIN Eiendom D      
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010748155-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010748155-recent.json
+
+DNB Teknologi N     
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010801913-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010801913-recent.json
+
+ODIN Sverige D      
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010748304-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010748304-recent.json
+
+ODIN Global D       
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010732852-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010732852-recent.json
+
+ODIN USA D          
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010775729-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010775729-recent.json
+
+DNB USA Indeks N    
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010801954-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010801954-recent.json
+
+DNB Global Indeks N 
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010827272-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010827272-recent.json
+
+KAHOOT! ASA         
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010823131-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010823131-recent.json

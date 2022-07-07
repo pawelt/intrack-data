@@ -1,0 +1,25 @@
+name: Fetch instrument data
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/5 8-22 * * 1-5"
+
+jobs:
+  fetch-instruments:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Fetch data
+        run: node ./scripts/fetch-instruments.js
+      - name: Commit changes
+        run: |
+          git config --global user.name 'cronie'
+          git config --global user.email 'cronie@nope.com'
+          git add .
+          git commit -am "Automated data fetch"
+          git push
