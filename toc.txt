@@ -26,6 +26,14 @@ DNB Global Indeks N
   https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010827272-max.json
   https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010827272-recent.json
 
+DNB Europa Indeks N 
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010827926-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010827926-recent.json
+
+DNB Norge Indeks N  
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010827678-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010827678-recent.json
+
 KAHOOT! ASA         
   https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010823131-max.json
   https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010823131-recent.json
