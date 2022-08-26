@@ -49,6 +49,20 @@ const INSTRUMENTS = [
     page: "https://live.euronext.com/en/product/fund/NO0010827272.DKGLOIN-WOMF",
   },
   {
+    name: "DNB Europa Indeks N",
+    isin: "NO0010827926",
+    code: "NO0010827926.DKEUINN-WOMF",
+    type: "ose-fund",
+    page: "https://live.euronext.com/en/product/funds/NO0010827926.DKEUINN-WOMF",
+  },
+  {
+    name: "DNB Norge Indeks N",
+    isin: "NO0010827678",
+    code: "NO0010827678.DKNOINN-WOMF",
+    type: "ose-fund",
+    page: "https://live.euronext.com/en/product/funds/NO0010827678.DKNOINN-WOMF",
+  },
+  {
     name: "KAHOOT! ASA",
     isin: "NO0010823131",
     code: "NO0010823131-MERK",
