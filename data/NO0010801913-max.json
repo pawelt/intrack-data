@@ -1,6 +1,6 @@
 
 {
-  "date": "2022-08-29T20:58:51.348Z",
+  "date": "2022-08-30T08:17:59.750Z",
   "name": "DNB Teknologi N",
   "page": "https://live.euronext.com/en/product/fund/NO0010801913.DKDNBTN-WOMF",
   "data": [
@@ -1392,7 +1392,8 @@
     {"time":"2022-08-22 02:00","price":141.79293200000001,"volume":0},
     {"time":"2022-08-23 02:00","price":139.325996,"volume":0},
     {"time":"2022-08-24 02:00","price":138.69626,"volume":0},
-    {"time":"2022-08-25 02:00","price":140.553102,"volume":0}
+    {"time":"2022-08-25 02:00","price":140.553102,"volume":0},
+    {"time":"2022-08-26 02:00","price":136.96617000000001,"volume":0}
   ]
 }
     
