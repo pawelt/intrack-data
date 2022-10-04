@@ -83,7 +83,7 @@ const fetchData = (code, scope) => {
     })
     .then((res) => res.text())
     .catch((err) => {
-      console.log('WAAAT', err);
+      console.log('WAAAT', JSON.stringify(err, null, 2));
       return [];
     });;
 };
