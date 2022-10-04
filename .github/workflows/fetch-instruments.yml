@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: 18
       - name: Fetch data
-        run: node --insecure-http-parser ./scripts/fetch-instruments.js
+        run: NODE_OPTIONS=--insecure-http-parser  node  ./scripts/fetch-instruments.js
       - name: Commit changes
         run: |
           git config --global user.name 'cronie'
