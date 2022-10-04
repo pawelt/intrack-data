@@ -72,20 +72,22 @@ const INSTRUMENTS = [
 ];
 
 const { writeFileSync } = require("fs");
+const https = require('node:https');
 
 const fetchData = (code, scope) => {
-  return fetch(
-    `https://live.euronext.com/intraday_chart/getChartData/${code}/${scope}`
-  )
-    .then((res) => {
-      if (!res.ok) throw new Error(`Fetch status: ${res.status}`);
-      return res;
-    })
-    .then((res) => res.text())
-    .catch((err) => {
-      console.log('WAAAT', JSON.stringify(err, null, 2));
-      return [];
-    });;
+  return new Promise((resolve, reject) => {
+    const url = `https://live.euronext.com/intraday_chart/getChartData/${code}/${scope}`;
+    https.get(url, (res) => {
+      // console.log('statusCode:', res.statusCode);
+      // console.log('headers:', res.headers);
+      if (res.statusCode !== 201) {
+        return resolve(new Error(`GET ${url} failed with status: ${res.statusCode}`))
+      }
+      let data = '';
+      res.on('data', (chunk) => data += chunk);
+      res.on('end', () => resolve(data));
+    }).on('error', (err) => reject(err));
+  })
 };
 
 const fetchMax = (code) => fetchData(code, "max");
