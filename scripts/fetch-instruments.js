@@ -81,7 +81,11 @@ const fetchData = (code, scope) => {
       if (!res.ok) throw new Error(`Fetch status: ${res.status}`);
       return res;
     })
-    .then((res) => res.text());
+    .then((res) => res.text())
+    .catch((err) => {
+      console.log('WAAAT', err);
+      return [];
+    });;
 };
 
 const fetchMax = (code) => fetchData(code, "max");
