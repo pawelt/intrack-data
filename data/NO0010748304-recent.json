@@ -1,6 +1,6 @@
 
 {
-  "date": "2023-02-03T17:47:05.014Z",
+  "date": "2023-02-03T18:09:08.409Z",
   "name": "ODIN Sverige D",
   "page": "https://live.euronext.com/en/product/fund/NO0010748304.ODSVERID-WOMF",
   "data": [
@@ -25,7 +25,8 @@
     {"time":"2023-01-27 01:00","price":243.13480000000001,"volume":0},
     {"time":"2023-01-30 01:00","price":242.1559,"volume":0},
     {"time":"2023-01-31 01:00","price":239.66480000000001,"volume":0},
-    {"time":"2023-02-01 01:00","price":244.114,"volume":0}
+    {"time":"2023-02-01 01:00","price":244.114,"volume":0},
+    {"time":"2023-02-02 01:00","price":260.03620000000001,"volume":0}
   ]
 }
     
