@@ -1,6 +1,6 @@
 
 {
-  "date": "2023-02-27T22:35:52.414Z",
+  "date": "2023-02-28T08:12:53.612Z",
   "name": "DNB Europa Indeks N",
   "page": "https://live.euronext.com/en/product/funds/NO0010827926.DKEUINN-WOMF",
   "data": [
@@ -817,7 +817,8 @@
     {"time":"2023-02-20 01:00","price":134.083324,"volume":0},
     {"time":"2023-02-21 01:00","price":133.975731,"volume":0},
     {"time":"2023-02-22 01:00","price":133.758759,"volume":0},
-    {"time":"2023-02-23 01:00","price":133.13139899999999,"volume":0}
+    {"time":"2023-02-23 01:00","price":133.13139899999999,"volume":0},
+    {"time":"2023-02-24 01:00","price":132.31626900000001,"volume":0}
   ]
 }
     
