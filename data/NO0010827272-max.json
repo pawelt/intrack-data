@@ -1,6 +1,6 @@
 
 {
-  "date": "2023-08-21T22:32:39.099Z",
+  "date": "2023-08-22T08:10:19.302Z",
   "name": "DNB Global Indeks N",
   "page": "https://live.euronext.com/en/product/fund/NO0010827272.DKGLOIN-WOMF",
   "data": [
@@ -910,7 +910,8 @@
     {"time":"2023-08-14 02:00","price":160.13558599999999,"volume":0},
     {"time":"2023-08-15 02:00","price":158.8629,"volume":0},
     {"time":"2023-08-16 02:00","price":158.653043,"volume":0},
-    {"time":"2023-08-17 02:00","price":157.42461299999999,"volume":0}
+    {"time":"2023-08-17 02:00","price":157.42461299999999,"volume":0},
+    {"time":"2023-08-18 02:00","price":158.56297499999999,"volume":0}
   ]
 }
     
