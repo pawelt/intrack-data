@@ -1,6 +1,6 @@
 
 {
-  "date": "2023-12-01T11:07:22.547Z",
+  "date": "2023-12-01T11:32:49.460Z",
   "name": "KAHOOT! ASA",
   "page": "https://live.euronext.com/en/product/equities/NO0010823131-MERK",
   "data": [
@@ -342,7 +342,10 @@
     {"time":"2023-12-01 11:51","price":35.020000000000003,"volume":132},
     {"time":"2023-12-01 11:56","price":35,"volume":42},
     {"time":"2023-12-01 12:05","price":35,"volume":700},
-    {"time":"2023-12-01 12:06","price":35,"volume":37}
+    {"time":"2023-12-01 12:06","price":35,"volume":37},
+    {"time":"2023-12-01 12:14","price":35,"volume":100},
+    {"time":"2023-12-01 12:19","price":35,"volume":78},
+    {"time":"2023-12-01 12:24","price":35.009999999999998,"volume":2073}
   ]
 }
     
