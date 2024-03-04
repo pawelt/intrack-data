@@ -22,6 +22,10 @@ DNB USA Indeks N
   https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010801954-max.json
   https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010801954-recent.json
 
+DNB USA Indeks A    
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010337959-max.json
+  https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010337959-recent.json
+
 DNB Global Indeks N 
   https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010827272-max.json
   https://raw.githubusercontent.com/pawelt/intrack-data/master/data/NO0010827272-recent.json
