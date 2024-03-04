@@ -42,6 +42,13 @@ const INSTRUMENTS = [
     page: "https://live.euronext.com/en/product/fund/NO0010801954.DKUSAIN-WOMF",
   },
   {
+    name: "DNB USA Indeks A",
+    isin: "NO0010337959",
+    code: "NO0010337959.DIUSA-WOMF",
+    type: "ose-fund",
+    page: "https://live.euronext.com/nb/product/funds/NO0010337959.DIUSA-WOMF",
+  },
+  {
     name: "DNB Global Indeks N",
     isin: "NO0010827272",
     code: "NO0010827272.DKGLOIN-WOMF",
