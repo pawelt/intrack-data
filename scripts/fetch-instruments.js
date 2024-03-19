@@ -83,7 +83,7 @@ const https = require('node:https');
 
 const fetchData = (code, scope) => {
   return new Promise((resolve, reject) => {
-    const url = `https://live.euronext.com/intraday_chart/getChartData/${code}/${scope}`;
+    const url = `https://live.euronext.com/en/intraday_chart/getChartData/${code}/${scope}`;
     https.get(url, (res) => {
       // console.log('statusCode:', res.statusCode);
       // console.log('headers:', res.headers);
@@ -135,7 +135,7 @@ const processInstrument = async (ins) => {
     if (dataRecent.length > 10) {
       writeFileSync(`data/${ins.isin}-recent.json`, wrapData(dataRecent, ins));
     } else {
-      console.log(`Skipping MAX for ${ins.name}: fetched data too short`);
+      console.log(`Skipping RECENT for ${ins.name}: fetched data too short`);
       console.log({ dataRecent });
     }
   } catch (err) {
