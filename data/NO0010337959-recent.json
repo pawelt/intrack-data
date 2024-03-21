@@ -1,11 +1,10 @@
 
 {
-  "date": "2024-03-21T22:11:57.177Z",
+  "date": "2024-03-21T23:14:07.465Z",
   "name": "DNB USA Indeks A",
   "page": "https://live.euronext.com/nb/product/funds/NO0010337959.DIUSA-WOMF",
   "data": [
-    {"time":"2024-02-20 01:00","price":591.82361400000002,"volume":""},
-    {"time":"2024-02-21 01:00","price":593.168361,"volume":0},
+    {"time":"2024-02-21 01:00","price":593.168361,"volume":""},
     {"time":"2024-02-22 01:00","price":607.43195600000001,"volume":0},
     {"time":"2024-02-23 01:00","price":608.70986300000004,"volume":0},
     {"time":"2024-02-26 01:00","price":605.78112899999996,"volume":0},
