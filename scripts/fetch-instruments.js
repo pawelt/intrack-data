@@ -1,12 +1,5 @@
 const INSTRUMENTS = [
   {
-    name: "ODIN Eiendom D",
-    isin: "NO0010748155",
-    code: "NO0010748155.ODEIEND-WOMF",
-    type: "ose-fund",
-    page: "https://live.euronext.com/en/product/fund/NO0010748155.ODEIEND-WOMF",
-  },
-  {
     name: "DNB Teknologi N",
     isin: "NO0010801913",
     code: "NO0010801913.DKDNBTN-WOMF",
@@ -14,25 +7,11 @@ const INSTRUMENTS = [
     page: "https://live.euronext.com/en/product/fund/NO0010801913.DKDNBTN-WOMF",
   },
   {
-    name: "ODIN Sverige D",
-    isin: "NO0010748304",
-    code: "NO0010748304.ODSVERID-WOMF",
+    name: "DNB Teknologi A",
+    isin: "NO0010337678",
+    code: "NO0010337678.DINOTEC-WOMF",
     type: "ose-fund",
-    page: "https://live.euronext.com/en/product/fund/NO0010748304.ODSVERID-WOMF",
-  },
-  {
-    name: "ODIN Global D",
-    isin: "NO0010732852",
-    code: "NO0010732852.ODGLOBD-WOMF",
-    type: "ose-fund",
-    page: "https://live.euronext.com/en/product/fund/NO0010732852.ODGLOBD-WOMF",
-  },
-  {
-    name: "ODIN USA D",
-    isin: "NO0010775729",
-    code: "NO0010775729.ODODUSD-WOMF",
-    type: "ose-fund",
-    page: "https://live.euronext.com/en/product/fund/NO0010775729.ODODUSD-WOMF",
+    page: "https://live.euronext.com/nb/product/funds/NO0010337678.DINOTEC-WOMF",
   },
   {
     name: "DNB USA Indeks N",
@@ -56,11 +35,25 @@ const INSTRUMENTS = [
     page: "https://live.euronext.com/en/product/fund/NO0010827272.DKGLOIN-WOMF",
   },
   {
+    name: "DNB Global Indeks A",
+    isin: "NO0010582984",
+    code: "NO0010582984.DKGLBIX-WOMF",
+    type: "ose-fund",
+    page: "https://live.euronext.com/nb/product/funds/NO0010582984.DKGLBIX-WOMF",
+  },
+  {
     name: "DNB Europa Indeks N",
     isin: "NO0010827926",
     code: "NO0010827926.DKEUINN-WOMF",
     type: "ose-fund",
     page: "https://live.euronext.com/en/product/funds/NO0010827926.DKEUINN-WOMF",
+  },
+  {
+    name: "DNB Europa Indeks A",
+    isin: "NO0008001872",
+    code: "NO0008001872.DKEUROP-WOMF",
+    type: "ose-fund",
+    page: "https://live.euronext.com/en/product/funds/NO0008001872.DKEUROP-WOMF",
   },
   {
     name: "DNB Norge Indeks N",
@@ -70,11 +63,39 @@ const INSTRUMENTS = [
     page: "https://live.euronext.com/en/product/funds/NO0010827678.DKNOINN-WOMF",
   },
   {
-    name: "KAHOOT! ASA",
-    isin: "NO0010823131",
-    code: "NO0010823131-MERK",
-    type: "ose-stock",
-    page: "https://live.euronext.com/en/product/equities/NO0010823131-MERK",
+    name: "DNB Norge Indeks A",
+    isin: "NO0010582976",
+    code: "NO0010582976.DKNORIX-WOMF",
+    type: "ose-fund",
+    page: "https://live.euronext.com/nb/product/funds/NO0010582976.DKNORIX-WOMF",
+  },
+  {
+    name: "ODIN Sverige D",
+    isin: "NO0010748304",
+    code: "NO0010748304.ODSVERID-WOMF",
+    type: "ose-fund",
+    page: "https://live.euronext.com/en/product/fund/NO0010748304.ODSVERID-WOMF",
+  },
+  {
+    name: "ODIN Global D",
+    isin: "NO0010732852",
+    code: "NO0010732852.ODGLOBD-WOMF",
+    type: "ose-fund",
+    page: "https://live.euronext.com/en/product/fund/NO0010732852.ODGLOBD-WOMF",
+  },
+  {
+    name: "ODIN USA D",
+    isin: "NO0010775729",
+    code: "NO0010775729.ODODUSD-WOMF",
+    type: "ose-fund",
+    page: "https://live.euronext.com/en/product/fund/NO0010775729.ODODUSD-WOMF",
+  },
+  {
+    name: "ODIN Eiendom D",
+    isin: "NO0010748155",
+    code: "NO0010748155.ODEIEND-WOMF",
+    type: "ose-fund",
+    page: "https://live.euronext.com/en/product/fund/NO0010748155.ODEIEND-WOMF",
   },
 ];
 
