@@ -1,6 +1,6 @@
 
 {
-  "date": "2024-04-19T11:10:36.346Z",
+  "date": "2024-04-19T12:23:04.408Z",
   "name": "DNB USA Indeks N",
   "page": "https://live.euronext.com/en/product/fund/NO0010801954.DKUSAIN-WOMF",
   "data": [
@@ -22,7 +22,8 @@
     {"time":"2024-04-12 02:00","price":208.545705,"volume":0},
     {"time":"2024-04-15 02:00","price":206.92346599999999,"volume":0},
     {"time":"2024-04-16 02:00","price":206.85279499999999,"volume":0},
-    {"time":"2024-04-17 02:00","price":206.445821,"volume":0}
+    {"time":"2024-04-17 02:00","price":206.445821,"volume":0},
+    {"time":"2024-04-18 02:00","price":206.01640699999999,"volume":0}
   ]
 }
     
