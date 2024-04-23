@@ -104,7 +104,7 @@ const https = require('node:https');
 
 const fetchData = (code, scope) => {
   return new Promise((resolve, reject) => {
-    const url = `https://live.euronext.com/en/intraday_chart/getChartData/${code}/${scope}`;
+    const url = `https://live.euronext.com/en/intraday_chart/getChartData/${code}/${scope}?${Date.now()}`;
     https.get(url, (res) => {
       // console.log('statusCode:', res.statusCode);
       // console.log('headers:', res.headers);
