@@ -1,11 +1,10 @@
 
 {
-  "date": "2024-05-02T23:14:42.410Z",
+  "date": "2024-05-03T08:17:51.489Z",
   "name": "DNB Teknologi A",
   "page": "https://live.euronext.com/nb/product/funds/NO0010337678.DINOTEC-WOMF",
   "data": [
-    {"time":"2024-03-27 01:00","price":4350.7770300000002,"volume":""},
-    {"time":"2024-04-02 02:00","price":4389.68336,"volume":0},
+    {"time":"2024-04-02 02:00","price":4389.68336,"volume":""},
     {"time":"2024-04-03 02:00","price":4378.0087590000003,"volume":0},
     {"time":"2024-04-05 02:00","price":4359.7467619999998,"volume":0},
     {"time":"2024-04-08 02:00","price":4356.4384559999999,"volume":0},
