@@ -1,28 +1,8 @@
 
 {
-  "date": "2024-05-22T20:14:22.999Z",
+  "date": "2024-05-22T21:14:39.294Z",
   "name": "ODIN Eiendom D",
   "page": "https://live.euronext.com/en/product/fund/NO0010748155.ODEIEND-WOMF",
-  "data": [
-    {"time":"2024-04-19 02:00","price":228.13740000000001,"volume":""},
-    {"time":"2024-04-22 02:00","price":231.06190000000001,"volume":0},
-    {"time":"2024-04-23 02:00","price":232.29509999999999,"volume":0},
-    {"time":"2024-04-24 02:00","price":227.39840000000001,"volume":0},
-    {"time":"2024-04-25 02:00","price":222.01339999999999,"volume":0},
-    {"time":"2024-04-26 02:00","price":227.7225,"volume":0},
-    {"time":"2024-04-29 02:00","price":229.66059999999999,"volume":0},
-    {"time":"2024-04-30 02:00","price":232.0325,"volume":0},
-    {"time":"2024-05-02 02:00","price":233.53190000000001,"volume":0},
-    {"time":"2024-05-03 02:00","price":230.94450000000001,"volume":0},
-    {"time":"2024-05-06 02:00","price":230.99039999999999,"volume":0},
-    {"time":"2024-05-07 02:00","price":237.71799999999999,"volume":0},
-    {"time":"2024-05-08 02:00","price":236.32060000000001,"volume":0},
-    {"time":"2024-05-10 02:00","price":237.31899999999999,"volume":0},
-    {"time":"2024-05-13 02:00","price":237.3827,"volume":0},
-    {"time":"2024-05-14 02:00","price":239.43780000000001,"volume":0},
-    {"time":"2024-05-15 02:00","price":245.02979999999999,"volume":0},
-    {"time":"2024-05-16 02:00","price":245.00110000000001,"volume":0},
-    {"time":"2024-05-21 02:00","price":239.79849999999999,"volume":0}
-  ]
+  "data": {"ct":"SvdrGwIrAAHTh+iDRloWvL5dHvgW7eBTf8zFkUMkMi0sHq3jhvcfEr7WKc\/MM2HPHr0Npl2Wjmgpa2jZ1j4o\/hVVbgPkGKL6EkDSWMCzuMDWHu6o46s\/lLdWRcbDy2J09UJB3cgKKJzY9imzJRLkWXheRxjbG+QQruzIpTQtWFCw0z\/FeM4wxrgpfQgp1KErBOUztocrrzhSq40wcg09AB5jlxjPXE9YYnlBN+fzd4sgzmjiEQdbqSTYckG2orU11y7mjAOcjPMQ+aii2CQfkicjv+NbMBNwwf4O6WANuodrJ81bmYB1HLw3ZqdCpCL\/TuCVeneLWMadVgwdiyafsqJPZKO2tHGFUgHoVo4dXSzSA3goXzdPYHPXRls\/g4kQfcorCByv5Dz64ot5Obod3JaYPHH1isISiJfDW2qrYaIdhSZIe4VFNXLKOzESoFL4CHMDrV53Z1ynQEaxmY1MXS5OVgr57aa+d7afG3oe30Iew\/yRLEFV4X6SFn5S8RPW\/OXtxQHQbzDDClNfv4gBSKzeld9poPQcv+0EjjlpRnxgjM+kLu8UGQNQJJPwzcn2kx+mV9HVAq6914tXuTb6568d2BM1bav+hFm2EdaOXG3u8+Og8m\/jotR\/k3lOgcvVDCu4U4xbGygPDcH4YXgz1chMVlttx9we4CafAirbkf0m8suajx8SMWFVC07\/\/TdzZAU3f+2IcPS3RgCi9aVVBuxN0tcuGt8dmiETcDnMxkzLe+GLANY419C9ijW\/220DA5OArZpXbpxVIKMGRi56jdjhGWpmqnvU5AclZtUKHPeX\/74BZlknGcUfmymJ6R23ro1uGOCPUT9hRIZDGyuLXlm82BmxS9MHgx7FLtfUJYtyjg7L3mAFEVdXAH9LR3GQuxFSrj6w8Av8ZtWoeHHE6TC5dq5tzMrLhLPf8L+LmSHkeaJ9LTtstkiKmbYkPvDaKq+PeI8wGxPZLdi6aGx1y9Tj\/SaawfojsuTtToFv9B4YHVk64P9hj4JwAg0DwvI7HsoDE3IurfCYGEznp0tDTU5DR1\/jshQ+Z0xta8RGhXzTxjL3s3Xp2NIaZDxgkjl7KDpKGvba2K6CWkcjC94Eo+AFuH05tgmMmk6SM7EW+otdR2qPpcIpwd68iP2rjdy0FaOvLb0Erj1UE7OfGG\/0oAtpZmOYFvBu5D3o3Pn+LK+gSJFp2pfGk5LcfZhzoK1YKGCD6h\/3+Tk1Su4DHC1y8QWzUYnVo1HP129zWFKCOhlDguakjBu2BGYjrHMNk9Q45gIxarCdxy081bz7ZtKewtjMfLoVffqHLB+do+4aHl87m1y3+jmaVuQRI4gAGaEyIQtGO0dTJ1D09xOiTLqsWXmqL0RLLkdUvuf6ybVi02Gqxhy0AfJpumYkbzdQzndDDQa45+Txlsozi+Jaa8uU74r4qRgE9+AL31LOJCpywdTzueu6VEeqWP+9jQGT0+7qoS799p7WJEuyKDP1NG1WQlgp2tIgoWIQO\/7IGRV3qisE2thWXZWwGMU+SXophVidq79HjOZcWJlDf0jZQtv4k6sP63GT\/biOFvOFP1ecTZu5gHLuoJLa010jl9Ev9lmNB8MSUTHPd1gnOvdoqQVD1QMXE76lvI2m6ZFPb46+opJ16IcZuGxqrlD4yEXo0mMQseZEXaoUnm4Inprz1GvTWl9aXdyyKqmLtH8poofhD\/tAYRHo+s94t6aZhBI3Z6Kc","iv":"f473125057144db61433a27babd6ba7b","s":"789aaa0cea889666"}
 }
     

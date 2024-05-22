@@ -1,28 +1,8 @@
 
 {
-  "date": "2024-05-22T20:14:18.531Z",
+  "date": "2024-05-22T21:14:39.199Z",
   "name": "DNB Teknologi A",
   "page": "https://live.euronext.com/nb/product/funds/NO0010337678.DINOTEC-WOMF",
-  "data": [
-    {"time":"2024-04-19 02:00","price":4262.2195199999996,"volume":""},
-    {"time":"2024-04-22 02:00","price":4325.9516560000002,"volume":0},
-    {"time":"2024-04-23 02:00","price":4357.0465889999996,"volume":0},
-    {"time":"2024-04-24 02:00","price":4402.3677889999999,"volume":0},
-    {"time":"2024-04-25 02:00","price":4323.1311480000004,"volume":0},
-    {"time":"2024-04-26 02:00","price":4415.9919280000004,"volume":0},
-    {"time":"2024-04-29 02:00","price":4374.1913059999997,"volume":0},
-    {"time":"2024-04-30 02:00","price":4358.6792759999998,"volume":0},
-    {"time":"2024-05-02 02:00","price":4381.636117,"volume":0},
-    {"time":"2024-05-03 02:00","price":4366.8670860000002,"volume":0},
-    {"time":"2024-05-06 02:00","price":4400.2998120000002,"volume":0},
-    {"time":"2024-05-07 02:00","price":4448.8505279999999,"volume":0},
-    {"time":"2024-05-08 02:00","price":4451.0108110000001,"volume":0},
-    {"time":"2024-05-10 02:00","price":4446.2014609999997,"volume":0},
-    {"time":"2024-05-13 02:00","price":4434.7986069999997,"volume":0},
-    {"time":"2024-05-14 02:00","price":4500.6809810000004,"volume":0},
-    {"time":"2024-05-15 02:00","price":4515.2327329999998,"volume":0},
-    {"time":"2024-05-16 02:00","price":4493.1425399999998,"volume":0},
-    {"time":"2024-05-21 02:00","price":4490.3742629999997,"volume":0}
-  ]
+  "data": {"ct":"BMr7eghw5v7y6ZeiMohjkh1OI5Za0yOIKCe0rpJMC\/ECAIYHadLi4emY4a2sJKo2Br2fPhWECOTr2DdnRcRR9FzPGaLaPuSaClFt\/SJQv7zxaqq6UG6RDaWPmZxisytrNJfWjPY1ZDupnI4UA3pRke3\/Z2kikqbv+JgHWsYuIIXThrSUFZqZokp\/XtXsXorp4fusOM1Ioj4zD94bFnRVoME8Y9QvwnhRdvitY4Ag+VXW2IMHQkCqY+N8TPbXfPPehrknAIpkHe5PKXdaF1w7miYV3a1+BguFooWiKv5XDeGO44NF3u0rs0yKakydNV1J7zfckgbMTAdpus3s0IM\/E4Z8Ugm7VNxMZON8lCxS1H1upDJaYnsccgKeC6ECOY5ksAiYBJC9WQ327KgFJC4hkS\/0txitW0ystsTvfT4tGSvk4w9L95BuO9eFYS07kUbXjOFxy\/lY\/hGbTjLPxWWhlnRuI1OUmB5CTNeiQNsOJJxpMrWar60lF3qUJVXQEIX1aHcJZvSavLX6NQoiHkTFL7BVGCzreadW7qjB8PQlu1VrM6e5cVjnRIAOpj92ZFa5MJlDweoSV7b5p6beO+ddrHYlG5eHwZZtgRd2uCUP9S\/s8HuYICIcE9B5aImDS+\/4mKl6\/QnC13XWfpRloilJsPJtLgzFDRXpfAaumzj2W87if1Y+xfjhQKPlxtZHV5i\/1kOErvXRvIJxdoaiqAjhrAu8RKYD65g7k0gcc\/9O7GMQtLZ8fC8c\/vRdZ35bBRTVLJhz80jVyEU2ezIF8lb2JDQI\/e+eae\/EOwIVVl6TmzTc5OWQ6Um06TzcSO8veTJY\/FoIgqG0V+nagdDJNslWHWtReUMUcVm8pEUfbo\/CPg5YMW5qPmjt5iW54Qq3yxTJP0VvkerQwBTGJzBSbcr3Bf2A3sq6dKMtu4Tsj172\/UmDUFgsqKnPAx\/pfFfuVRohFV7TdmKvw\/rNEEbJNT2Cd3IrBWbrMttF6qzhvQJ\/rujsWxTCdpuZ7FyRJfzvuN8unXnVjBPY\/1pb73gljWNSi7r\/8ZpzBosrDlSXm0yFjcISaHqFD+m91052bSRLN7MyOlUS02pnjwilAOmSnK6UbmSUjmZb+d708E+Ew9n0+a3hwChL5oKASFhudQy5asAtHFTPEfb\/K0FlO3TL7uii1sJoqdTjR9kQQH8BDV5SJQSV6\/vy0MLRucnjm1sQaoQrAtMWbZZg7nMg6AJSB3dx9erw3WOTsQl5eGsKg9luc6fdWvqct4Wg8\/EO6K35wN0vdHs47GtqPP7rlQ994zFRUwAfJpDnIyGgVVPen0v2r3ebFgNYAKMbk4FnXqX3hrHloVlcTAwJGHGXMXsKd6EYLDUbuOnf64qf3mFd3KKm8eORdOjhIn4mNzYEkXSUj6CSLiF7cVWbCLScAWUW6\/JYWs6IBhNw+3D7C70Jg8pT\/Ip7QCDkA\/ADW0I8QfqBH4fjY3MbMrODTl5tGvp0+IwqTQxgGqSZo751Wnlrh0rKgh\/Ni31Hl60nZjJEurU+iuyC0l+k0UNKSIfFeh5Xi3XjM9f\/3i8fpTJtFEh+25EHnYTu0+BZjK1cpnCAmZ58Nd1AntcF0f+0cZUjyX5bpuNxV9j5xtbgqi2iAagle+PzTmT8PtTCngOfgCXHzqTBAa0fTdDuMEGsPgStberr908KTw==","iv":"b71df519716fe7935c9dd085e13140c6","s":"52de22d7e4af91d2"}
 }
     

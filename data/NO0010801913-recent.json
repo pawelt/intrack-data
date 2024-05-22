@@ -1,27 +1,8 @@
 
 {
-  "date": "2024-05-22T20:14:18.776Z",
+  "date": "2024-05-22T21:14:39.205Z",
   "name": "DNB Teknologi N",
   "page": "https://live.euronext.com/en/product/fund/NO0010801913.DKDNBTN-WOMF",
-  "data": [
-    {"time":"2024-04-19 02:00","price":220.55854199999999,"volume":""},
-    {"time":"2024-04-22 02:00","price":223.85651100000001,"volume":0},
-    {"time":"2024-04-23 02:00","price":225.46559099999999,"volume":0},
-    {"time":"2024-04-24 02:00","price":227.81084300000001,"volume":0},
-    {"time":"2024-04-25 02:00","price":223.71055699999999,"volume":0},
-    {"time":"2024-04-26 02:00","price":228.515839,"volume":0},
-    {"time":"2024-04-29 02:00","price":226.352768,"volume":0},
-    {"time":"2024-04-30 02:00","price":225.550062,"volume":0},
-    {"time":"2024-05-02 02:00","price":226.73801800000001,"volume":0},
-    {"time":"2024-05-03 02:00","price":225.97376,"volume":0},
-    {"time":"2024-05-06 02:00","price":227.70381399999999,"volume":0},
-    {"time":"2024-05-07 02:00","price":230.216185,"volume":0},
-    {"time":"2024-05-08 02:00","price":230.32797400000001,"volume":0},
-    {"time":"2024-05-10 02:00","price":230.07910200000001,"volume":0},
-    {"time":"2024-05-13 02:00","price":229.489035,"volume":0},
-    {"time":"2024-05-14 02:00","price":232.89827299999999,"volume":0},
-    {"time":"2024-05-15 02:00","price":233.651287,"volume":0},
-    {"time":"2024-05-16 02:00","price":232.50817799999999,"volume":0}
-  ]
+  "data": {"ct":"W3OxBFHQ\/YvZauYSlqBiVD4zzu\/Oa3Bxxx9SHHlHd\/RFyjRFEPie4+ApOtyeI031KK98bWTSuRQVsfyYGTMDitah4OoqgwufonuYAJqs98vR9oDJV7KRfL9KQ9pOwypf6NPO1AqEBg9k4\/IqQgwbHoRCFYGoRe5FsquYP9Js29+w2Nd1j5RQChC97RNRghrSO6qrh\/BYZvk5iDQI6aIbuvJzebNFc1zzCvJgIpAL5wFMVzLgZrdju9BWT9qZuI\/\/uVlhad68PMzU+5BwpqJuVz1FfD4AqvJ6GMSWCB\/eTIb2Da+AVQ45wjxrYZ3whZdE1UJTj4i0GFeISoazS9URV1PtwZ1MQhyXwHStVxo9Q0b3SGRZHPBhUUW56ENeqGoC+7qFPhWwlSVJrRd9X8oUnTmzUpgvZc4BNQkeQOH22wzOvYIj8TSsC8+O4iLIo4HgUNIEYNK3gAho3Hw8dQ\/T4FAYOLiKKi7wnQ0f5rKHWMZc7j2GPMrYvT1Wx90qEOqcDkMY3jBScclv1JCFBAy5Gv5xhyCETlNzPEy763SlBp9Aj+Tl8Rx+kVC1Aq9wzwquHaklK+jY2hvmjkp9aeeZuF6QW\/8nGGznaXdEHtkOcDupXxWgtkIyXwslH851MWs49Wi6GHv0ovSjmswDW3barXyG9ooAGyJEyAVh8\/yVc0lS5gCepSIMID1iHpkWeOsaZfhp1EdHZKJWuO2AO1aBxcaPysnz8glBbQUzOwxk5r+ie5En0jR6EabQMQQ4vdS1pLpfAGoneXN+GuziWe\/Dawjs8ZZoeLw3ZU7XUdG1qRdgkBTHXvB3xMYPDnrORDdcUa7x3Cp5YqDt5TPY\/KxDMmAphQfHQHoU\/PTDS7LHbNvVLsAbCZw77Fiys6s2DthhJUCcf0HV5x82p2BfEifkM9Xm7WZcAR6XnoeHSMSjcvqAlhsv8BaM3tbAXCkXlXRyHrRunOokVCqkIkUowfj69hC9uhMzkVfYoI\/bGKlQr5qOK87Fgd4fthyrHNjo3Lp1wYKw4TXJm0zjWvlUNzqneqYWC9je7uHHKWZrqfMvE27zl7fWK0\/DIqGUC+bQB59NoWRHAqcyuW0FVZwPXJ9YG0kj7v7ZrzWLarWcp8NvQiV+hIDy6BjWdHAKHPLy9VqNuOQeloxcuD2XN86oWJrbCwo\/49z3g9Qe1xhefFrhvmP37l4aFIsvqbeyBiM7h2QY7a9S7FPmHUcT48wt+n6rbz0FojcL27NXARsB37YR3XO4Xl2vaEn4R1PZXqAQlljcKAU24Nl4XritBLM+vxtqPhgNEIZxWPKYMG1jEmXY8FGwIbCax9HBJcbxgdGILkCpsjqJ88UBKHLUdXhzq44TxMbDf9ZIhfMqyCpAf8hwuDmU0+4pYN758HSXIFYLxqlOBw5DbEl\/NStkIooYZ15bwqBy5p46lW3HfEOtZLB8yLjgRVULklBkbwGsXOezKXibtosA+T7RASz55dxEOIhf5zFtnziHVYB9c8eBbCGAGNoQ6rbc+CLvadx+O6fF8D3bzJhnnPxi\/vo4DyeDpa9BSEYnCX7T65Iv9nV2LDvpRYg4xruEWkxP00abyIkSwl8f","iv":"805cef0e2b2d63da2424eeae55e5ad29","s":"45e9276ce8a45968"}
 }
     

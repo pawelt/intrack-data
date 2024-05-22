@@ -1,28 +1,8 @@
 
 {
-  "date": "2024-05-22T20:14:22.085Z",
+  "date": "2024-05-22T21:14:39.301Z",
   "name": "DNB Europa Indeks N",
   "page": "https://live.euronext.com/en/product/funds/NO0010827926.DKEUINN-WOMF",
-  "data": [
-    {"time":"2024-04-19 02:00","price":159.378117,"volume":""},
-    {"time":"2024-04-22 02:00","price":160.658997,"volume":0},
-    {"time":"2024-04-23 02:00","price":161.86960300000001,"volume":0},
-    {"time":"2024-04-24 02:00","price":161.94795400000001,"volume":0},
-    {"time":"2024-04-25 02:00","price":161.34553099999999,"volume":0},
-    {"time":"2024-04-26 02:00","price":163.39148,"volume":0},
-    {"time":"2024-04-29 02:00","price":163.49393000000001,"volume":0},
-    {"time":"2024-04-30 02:00","price":163.34024500000001,"volume":0},
-    {"time":"2024-05-02 02:00","price":162.63679200000001,"volume":0},
-    {"time":"2024-05-03 02:00","price":161.598511,"volume":0},
-    {"time":"2024-05-06 02:00","price":162.12382400000001,"volume":0},
-    {"time":"2024-05-07 02:00","price":164.84943899999999,"volume":0},
-    {"time":"2024-05-08 02:00","price":165.412283,"volume":0},
-    {"time":"2024-05-10 02:00","price":166.80094,"volume":0},
-    {"time":"2024-05-13 02:00","price":166.836479,"volume":0},
-    {"time":"2024-05-14 02:00","price":167.436508,"volume":0},
-    {"time":"2024-05-15 02:00","price":167.80840900000001,"volume":0},
-    {"time":"2024-05-16 02:00","price":167.170207,"volume":0},
-    {"time":"2024-05-21 02:00","price":166.35743099999999,"volume":0}
-  ]
+  "data": {"ct":"pnWXxO0D44kwVl023hEMTcJBORvxzbLgE3znTiiRwYi5d5iO4sptx37HQChrPoj0EDbEBnlKZ7G+3rzFjsv95OYCVwlsLI\/GfvxaSoih0BecQu31+0uEp53TcjpOXg5iu6mm8iT4VPCNT6Kx0z+e1UFpegm9ZJ7hEY0tbM8kXE0kyMBuOLWKTesWV1ZE+kgMjBVI9f\/ffPZX4YjfUBWrL6ORbfB+tweh0uyEjEp0OS\/LjnEGQrxPEUCaT9QruXRWZU78GxonxcnLRAX9KjEyXaEJBBHbqO7QEvhp3R9ww6t0OENQhb1PYQykxo4HqG7CXNmh7wlWUe+HwcHyzsfBmfcxj+P71bjqrxvGjvq6Vtj3T2Oimc05i99D3YBU4exfOvxPRp6kp8ZYmrPUj4NiI6FQJDPgv0rfEeiLlV53TS34dFsJYoHo1IQ4wBFWDj8OTnoVu5T\/PAdpaeC5yfRiEVSgy3xh4STMFHDIf618Nuc41PWC0UgLe4QH0IjOXpaSga8p1mQvjJYcZkm\/TVFNdtVMN9uS2yoxSJNOqKx1p6smdI4Z6C9sp96ro+kzdUZ9JZxz5ZjTKu6+vabKs\/sZODTFeXko4Hi2ZJY6uAd0DgLsFw31lsh9Z40Y9UCfmUKK8gtDw2Wc90huCrioRDCal7JEoxEUcO3wvRWuL1F7L\/AsHSCEVBLqtcC3Mjmr5pHFeY2qXL9pii7XiUkhh8U92fQcqJAFRzc0PH6y92XSRneUA4Ra8igNXLYecs\/oOf9kZPJy5W9rsn0HookFMdtvSeAO9MG\/Ae8xkDldEFCcF4y8cu+dJbVXAp8spG1D0Qk\/Cdhn\/b29dIYBmDRovPuJZ41hisoNPPlX\/fkRXM10nAdiWEm7e4o\/fuv0QCPbd9q2351\/AI0\/CARvWFGu1lWfIcwJ50wGW0wEFmpp\/DGKzKbLt1SZICML5ZVWFfHuCDJRR5oW8sSLdnfAY6Cxu+3VbYrOd33mLmy+s0+Ws+9SdtPcVWLf4pZVznYkcJ9bDS4TGbUyUrnNrcB6rfm5CNP3bMYPdL5Z4V3Z35jMRypZWlKvFsG7q6RvFSk7QHpyCGFTFHpMV2rsHziEEC9BE1fwW3SVk5G7a8+UDw6kc1bTxyeh\/i8Zs4cvomXCBn97peEvo6zc+sKRKjy0ZI0L\/GHeknIoPeqdXven+QEmhWpRFZsKPVOg4PzYKzN23zYP0vGjzheo0\/hge\/8AFVi7x6Mz32TEJuYNipsPOqSt6BgSTOeSO\/yVXrB8nX2JSkKD9hWxjhkK9v3LMY577vf368Z4me6wp3sYX1gO1ARJ2RNXgsqwFcTKfKYyWZAR98bfvd0kiwzTPjkkjpssdYFrQgH8JHH7jojPCgKmtqZCSPS3y3gELpHVKTM5QNbHQ1jMQIt3pjq6pZkYPFiyoAEhWnqbF635FASRgJMdcY\/iZ2QEJtSxnRkQgypnPnS\/CtgP6D1i2LLOo57q2QZtAiWzu+e6ThhPSbxVYNRU8rsaVjFX9CCnzyBX+opUMZ8vi812vHfd17Tt8YmAQnFIGSypbFkw40aBTd2De5E4M+f84orre\/c=","iv":"156ba001fa8ef483af232f14dca4994b","s":"e894cd47568f8baf"}
 }
     
