@@ -1,8 +1,27 @@
 
 {
-  "date": "2024-05-23T23:14:13.012Z",
+  "date": "2024-05-24T07:24:26.232Z",
   "name": "ODIN Global D",
   "page": "https://live.euronext.com/en/product/fund/NO0010732852.ODGLOBD-WOMF",
-  "data": {"ct":"4SAgvoDF3r1Bbnn5PsBKwv1joyIIOptnukGK9RHWNvKSyAV3U\/X2CLQyS8D\/enoJvwaZmFUvL\/fC0AQIcWdOkHiijg\/FtV7Z\/L0xaG0fspWetFXoxoMFncCht1WZnQsBbB\/DjMY7U4aAuh6aVufWOfau0Z0JVL6AJBP\/Yy2wlPZ+TZCkTna2mP+Lg+TMWNUe3buYMaKH6vfXM0SbXKBEO30VyQlG9+YV3FIRKHLYZodTdoXr7CPbHhhueNecBfBoyIEzo5TPS2hn9i6X\/WAHfUdcKrdsgwBEksRXw+PFE3IielY9ApslWJFI6UOKRJs2iWy55BY\/0tyLlAQSEE7czq1Ym8S7tkrv9vriYsw\/8mpsMNZRK9KyasnuRK2OjwSvAtHQBdJBvvH5g8+DKuJRbWLYRYvQx4SqWEAj7wJm2O6JS8o6snUikH2uAd8uRcVTmpKr\/2rDbc9vJKYkxKMhOAFHnM20ZqJ8PL0z57OT41qbaY\/FZgaza7TGStKXWz4Jj1zuHw3XtBaQubNqgI5Qg0oXjbCf3q7ypr1OAb86aqd4HJKV8642X1yELqUj+c8e87ob9\/NMlDCeK2dQ7vjtFBbmOlKBreJBd5H8sRHuw5emVxfJQkjfPxnYrTH8pNOluQrEhqzdp6\/ElEBN+wKBZOxwBWBzKkrWx5FYY0z+wc6awNyFCYytYu0t2xAlhrSIVAqvRwBmCaTPEM9km+bJ3TxE+FBDjJs3JRqdX3YEAJ\/rnU1PWvVNjQwRC08L3SVheNdTKNTXtEjnTrpusiWNkwkKCCKuDXhLltoUBA4HsBfsru0VDP6djZVuc0EJQAi+2SfaqOsYensLRVyTzzVYSzy9HuYvhu6ajjjdH8Q4NXmvZ9wJMtl4NkrrkRwi\/yAHztCDc2Zbcp5dWX3BjBGcG\/S+72IwcQVGGVkQ6AV2oKSb7pTi54xZ\/PoOrEDYj3XH9od8knkM5muhD\/UMOL9numlp3zlv2HlCDOr1cmKDp5539PzPWawQlGIyTLv4bu9QElAp3Q9sEfwJ743mSowBZfYZgHDWJGysRqZhp\/fr5DKdYLltFpRZGhAKfq+b6c4v7d7mc\/7HmhT+3UGxtm3bgggTGJKyQqHAzOO3VShKfQmwfEm2z6J0\/Irhnnz8DwPouK9ZjLsR9\/sVUDc2FdU5nv0gNmXCi8Ok22TryO2Ys11+lbvAdgZ43dREUEfxaIjSDntP4CMfmuQYWNhb\/gU3v6hrHCjPICnMq5oQC\/nllmQNydxsws70\/sXYZ2hC+IUy6Kzh2RqvLsyLSfFs19oV+fBD\/tbSf5mKmZhyVIrSUEu52CtxN0AFIiKzgbtMfEOc8T752wnIHiuN4PxOUvvlYMmZirhHRV3LhQtrPzYJDLPODGuZ4s0WrswAKpPx5a41ORtvTSxR2FBRp2k+48ehCfsdbjtzCwQXwgE2TG22iZr9aH1k1R6yNUMnYqudINlUwvvt64N+Ti69K9mT0D8u4nwFVrCOWZ7JwX70XPte5LwMusIqyIH\/QDkOXoa74BgIwXs5SaRCjy3tQY50FQl9pE+QyKYGG+RLnK2xItb4UfygDL8R239fdl\/qH8EK181cQcVI\/W9AdS9CLJX62R0\/SWYwut11GTLd3xUKYSCJxW\/1uH+yNJJvnrNDmopm4ick","iv":"b9045ac6388acc8a6ffc0a5badd0fbf7","s":"a41647d69a03c528"}
+  "data": [
+    {"time":"2024-04-23 02:00","price":301.67360000000002,"volume":""},
+    {"time":"2024-04-24 02:00","price":303.01249999999999,"volume":0},
+    {"time":"2024-04-25 02:00","price":298.19009999999997,"volume":0},
+    {"time":"2024-04-26 02:00","price":303.10070000000002,"volume":0},
+    {"time":"2024-04-29 02:00","price":302.37259999999998,"volume":0},
+    {"time":"2024-04-30 02:00","price":302.26310000000001,"volume":0},
+    {"time":"2024-05-02 02:00","price":298.58800000000002,"volume":0},
+    {"time":"2024-05-03 02:00","price":296.1601,"volume":0},
+    {"time":"2024-05-07 02:00","price":301.65960000000001,"volume":0},
+    {"time":"2024-05-08 02:00","price":303.69069999999999,"volume":0},
+    {"time":"2024-05-10 02:00","price":304.92349999999999,"volume":0},
+    {"time":"2024-05-13 02:00","price":303.85059999999999,"volume":0},
+    {"time":"2024-05-14 02:00","price":303.25729999999999,"volume":0},
+    {"time":"2024-05-15 02:00","price":303.53190000000001,"volume":0},
+    {"time":"2024-05-16 02:00","price":305.20319999999998,"volume":0},
+    {"time":"2024-05-21 02:00","price":302.21249999999998,"volume":0},
+    {"time":"2024-05-22 02:00","price":303.47519999999997,"volume":0},
+    {"time":"2024-05-23 02:00","price":302.23099999999999,"volume":0}
+  ]
 }
     

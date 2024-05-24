@@ -1,8 +1,27 @@
 
 {
-  "date": "2024-05-23T23:14:12.376Z",
+  "date": "2024-05-24T07:24:26.055Z",
   "name": "DNB USA Indeks A",
   "page": "https://live.euronext.com/nb/product/funds/NO0010337959.DIUSA-WOMF",
-  "data": {"ct":"fY\/gPEU2oIGdIfoxkblQMiPUWWTFME6dWIF0\/BUAaSry1xuAq1BCe\/6lrLY4KQ0lrKluPv+BIUzNXJdNgkOJzcCaA77Ip7YMjSLgr5c4gmGPV1FbCEabTc9LPXaVlEUwyC0FZu6qXCJt0sxQPn9l71N8\/OUBegREb4+443WbBFKuklmGdgcB71EQP5vYfVt8XbE+Vgw9uE0Ybvq+H9ldK8rWi0ek6DxWAPZdcZOY2XsaqEDsJ5soYFwn167bJV5B52VhJDWIl3GB2\/jC0E9tKyOfJGpmZBOdT0HiVA9tb+d7YGSGKQJQ4vgOiPV8pDjmsFZbzTo2Pw3nk61kBD19uWwwked5r92X9TdSZc1\/KumV\/aAIVknVt+y7vxLyOCcjqBlZHG2cj6peA\/aIv73U+G2CibnS1iXzz3OVGUmHratd1RbMUXH9+nbGWBqSlq6INTP2wITCK6qytE1XIjxK1bw4robJGBiFQEEqJ3CrNK08Q\/l6R3yGc+7\/sWkCtLKIeHol9U5YUyeJ2ShQ+aD4aLWltNLgud\/h0larOidizU3tFFNu1OZUGF2xICT9VbJh3TKMb+kVrqgubv45dn4Bl35+R1zqY50o99YszRIXDnQEzi1yTIOfMhVc81Oa5szqWuN4vapKJ9JT0J5KjcX5Iix79Xki5ROaAVtwJyqNE1zbpSFrA4QwgpqvmwF0CwMrab2IWbRsJVtusp\/ZxrtC7rcFkO9ZJLLTcqbo6CjDJqA+q0rSliw0UzcwYVoTMwo03IREod1EnMTSmOpdRhYCvDGN7Pxyz3LP5a9CooRftCD\/G\/NlF\/T+ArH\/sEvFdnKpJp0zOwKkI+M0P6mpA6axVuxNHzklj\/\/9SSs\/CyGcg1JXOjVJtgJxm2oacJdANsZ1\/WYPV3KQfkx401EtScqjzsmRT1gRiYGu8A\/3HdqPvvZhvvhTQVXk7JUR99etVXLTNztne+v+kr9vsc237FalryCDHTQLNno9GJzdm7Fo5CmMcxNo4h5zA01h0GW16sTrubqv2o9GkdlMVQY3naiIMVcRLPmB3Cfu\/vgzHfLPGsFuH99hbmovW7xS7zLYJZZXC7IxxZdhMGSeYtCPlF\/3lUN2drwm4CPgxUxd\/Fq6O9Zyd1k4yBVc3L9rxztwEC+KhKC4pbxXoh0FQgJ6uPE0BcODmxj3qbb7S760RhjahJ+JxvMG4XhD9qS16zWgwilPoV+VpCCh71yZRkt6vKe+dTGSrpB\/Lg+WpyIRq5A36Xs\/1uLnoid9OPYEdPCik0VIhZTTc\/QChA75vwxw0AtvgeijVzQ8\/GTlrq0kaZ9g7v1TKtH688CXJDkISp3IkyU+v7QNvz1Lbfs68uN7yp5xNacbuUTRdHVApjh\/RFEJEiDN4ep6FZpxg1P\/3ezCml+Fyjd6QqUf2GCD0Vyzq+SuE5SAUBwOYeLvhXER3ed\/cwcNYz3jbflmKmW8\/GR\/bmdh4VhXLqYmG8jsiLBLBGWL43ZaK+sZR2hCUFwRMelnZmhQeetUDUpAgQgpJpCQpoP9F8xKQTqyViVj3fOVLjcvco\/KkCwJj3ksCcoa7MCu6P\/UtVIiotWxqChUsjoXxunelEzcwZgIEp0XNzKDHYhpfOCcrLN70pbRm2j6tWw35ig\/UJVac9qV7j+kMBiyrYmDkQDmxb4xsfrAokE8u0E2Zw==","iv":"f6704d8a53c7c0c8ebddbaf631f13f60","s":"c713fea83ba48a89"}
+  "data": [
+    {"time":"2024-04-23 02:00","price":630.32445900000005,"volume":""},
+    {"time":"2024-04-24 02:00","price":633.67066899999998,"volume":0},
+    {"time":"2024-04-25 02:00","price":630.91245200000003,"volume":0},
+    {"time":"2024-04-26 02:00","price":639.56485299999997,"volume":0},
+    {"time":"2024-04-29 02:00","price":639.60354099999995,"volume":0},
+    {"time":"2024-04-30 02:00","price":633.90857900000003,"volume":0},
+    {"time":"2024-05-02 02:00","price":637.09905900000001,"volume":0},
+    {"time":"2024-05-03 02:00","price":633.11396400000001,"volume":0},
+    {"time":"2024-05-06 02:00","price":637.87944000000005,"volume":0},
+    {"time":"2024-05-07 02:00","price":641.78671099999997,"volume":0},
+    {"time":"2024-05-08 02:00","price":643.16007500000001,"volume":0},
+    {"time":"2024-05-10 02:00","price":644.61962500000004,"volume":0},
+    {"time":"2024-05-13 02:00","price":641.466905,"volume":0},
+    {"time":"2024-05-14 02:00","price":645.09416599999997,"volume":0},
+    {"time":"2024-05-15 02:00","price":648.92808000000002,"volume":0},
+    {"time":"2024-05-16 02:00","price":645.08142599999996,"volume":0},
+    {"time":"2024-05-21 02:00","price":645.37564299999997,"volume":0},
+    {"time":"2024-05-22 02:00","price":645.45556299999998,"volume":0}
+  ]
 }
     

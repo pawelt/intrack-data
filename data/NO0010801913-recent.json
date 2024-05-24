@@ -1,8 +1,27 @@
 
 {
-  "date": "2024-05-23T23:14:12.367Z",
+  "date": "2024-05-24T07:24:26.065Z",
   "name": "DNB Teknologi N",
   "page": "https://live.euronext.com/en/product/fund/NO0010801913.DKDNBTN-WOMF",
-  "data": {"ct":"R88ftIR4xVb96yUyuEo4qp04XP2HVk4KMI80XR3tGo9ACfvGaEbNkmrgq8TF8cAdkVggSApDkXX7QntSkvibsmSuqlQmQKNwbyylO6RTaswAfVJwhv5qF6tRn6o30c4UqrujnGtuMpI\/3WRynqlu01hZxOwmRwtDOm9QssE3EBqfnaHA+fQcvc+pkj+X3BxWb\/wNjJl4GM4EnZN2nSuz+VDQdPe770O9367r1\/4kWKpjV2zITdvCu8HCUJCbidJ4ZHZ0LQDKhW04fNuP8cFMSFTiUTaXJcHW4mCrCwqIVrniQ3l7Veo1z+OSYRKAYO11owSEz5Z3W4AJxegsSSGcFScBMIK88Hlp59h684Lluxq54vPnu0rKV50zBz7uJeQxfwSgbfCAHGNGD72AteuZZ7FYbjt58sF4ZIk8ye\/4hQ3IebvKQ6i4a835Qkkue2osRwBmEVGI6ArjS006eUVZX4r9sm2aPr7CPbQLlnziFbTc79irJdqdfy3UmhuHEf1GOsCFlv+bFMokCk\/3UjB7eKjXOAFDtd\/5BpZgXG36ewerLxNKelIIP8xD23l\/dllCbo4thctkwVqBG98tkM9dUGyctr8buMbx4\/mPoVef\/Z6T4AZcUh+SonWfkd5Oj\/Uc8WcwJhLcRZt1hgYPmAI0r0wxL0q\/xzQ8iq493js8gmoyXnX1FJbAXZgdwNYB9UE+kXmUX5Xed7AvHxFF\/iVhqCQrxJF\/WdOI+cPwDMNX\/HDoODLZi4YoDW0RE2E+1n2sb4drCmXytJXdtUJDrIBS1L58L6dfAH9qeC1X38LhxdKuJiiX+5aqna8j+BNG1kATN4nCRx3SqxtXMHxF8kG5RXJwvkzjP6o0ivz+ek+DnhPmZMRqnChW4flb5OojhANON1PQ8KoXrLHrSRnoXUexK1Fwmeo4CQYBAfcE9JMPqVTm+R\/Zchoe+e5V3M\/t8SrflJ5xLSvCkSURHfAmdfdrnaAQUeNZzmRjNcugubullPhWMt\/plFCjL5\/L9wWsCgmWNrr8qWVvXSRwvCoZHYvRaPjMQJkrexNQQGaxqBGlnQn4urVYsI\/ISKwccA1SUcpSEnsTCJKL\/ftBjJGj\/uWciDSAaThZXBiHy0ht7iSG4QebSP1VrLXBvFiNZc+oEguOwgXoliAoHaU5OJ6ZHdF++d4puBr+2RbN33sxAGjyO\/OXj6K5gS0xMOIu8o2Vq6NdD0tlODi7\/5MG2aQIeumACsbSa77+5SvpFaoNeqcrT45cxuRGeFFZ1MbvuSzyLjkLsKN4nIQ57QI\/Emonzham4vC2HnTHuMepPCOZKYQKlDPfSevty\/N1ym1RrP\/0I0XoosWGbTAKZY3puwF4VY37++jqslblg0bOMtIEknWYcwsGiPxsPENAqINF\/T+8O5nOJDors0\/AJbE\/RRNA8wqbSOYwB1U2YCAll8\/\/Q4RJOKsQqlP8Q4b+kAkhPgv\/c8mjGPo8AN9gLoXV0wlTW5iUO3WZYjr22ZlBSDwB2pmQe\/P98CsViHZhEt4gEsmrw+SVtSzci1Fe3qAJ9HPMcoL+3\/7s4kM0LMBbSqXWsjHfHPplMytu8bMdDt6NwELehZst","iv":"ffd051ebd57238f14613edd42c8ac242","s":"6695c0933e3ff345"}
+  "data": [
+    {"time":"2024-04-23 02:00","price":225.46559099999999,"volume":""},
+    {"time":"2024-04-24 02:00","price":227.81084300000001,"volume":0},
+    {"time":"2024-04-25 02:00","price":223.71055699999999,"volume":0},
+    {"time":"2024-04-26 02:00","price":228.515839,"volume":0},
+    {"time":"2024-04-29 02:00","price":226.352768,"volume":0},
+    {"time":"2024-04-30 02:00","price":225.550062,"volume":0},
+    {"time":"2024-05-02 02:00","price":226.73801800000001,"volume":0},
+    {"time":"2024-05-03 02:00","price":225.97376,"volume":0},
+    {"time":"2024-05-06 02:00","price":227.70381399999999,"volume":0},
+    {"time":"2024-05-07 02:00","price":230.216185,"volume":0},
+    {"time":"2024-05-08 02:00","price":230.32797400000001,"volume":0},
+    {"time":"2024-05-10 02:00","price":230.07910200000001,"volume":0},
+    {"time":"2024-05-13 02:00","price":229.489035,"volume":0},
+    {"time":"2024-05-14 02:00","price":232.89827299999999,"volume":0},
+    {"time":"2024-05-15 02:00","price":233.651287,"volume":0},
+    {"time":"2024-05-16 02:00","price":232.50817799999999,"volume":0},
+    {"time":"2024-05-21 02:00","price":232.36492699999999,"volume":0},
+    {"time":"2024-05-22 02:00","price":234.037025,"volume":0}
+  ]
 }
     
