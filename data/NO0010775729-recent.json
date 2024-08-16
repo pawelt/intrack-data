@@ -1,11 +1,10 @@
 
 {
-  "date": "2024-08-15T23:10:05.868Z",
+  "date": "2024-08-16T08:17:03.473Z",
   "name": "ODIN USA D",
   "page": "https://live.euronext.com/en/product/fund/NO0010775729.ODODUSD-WOMF",
   "data": [
-    {"time":"2024-07-12 02:00","price":333.45209999999997,"volume":""},
-    {"time":"2024-07-15 02:00","price":336.6103,"volume":0},
+    {"time":"2024-07-15 02:00","price":336.6103,"volume":""},
     {"time":"2024-07-16 02:00","price":341.25619999999998,"volume":0},
     {"time":"2024-07-17 02:00","price":340.92720000000003,"volume":0},
     {"time":"2024-07-18 02:00","price":342.4624,"volume":0},
