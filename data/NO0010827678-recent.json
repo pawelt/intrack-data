@@ -1,6 +1,6 @@
 
 {
-  "date": "2024-09-10T23:10:55.138Z",
+  "date": "2024-09-11T08:17:53.498Z",
   "name": "DNB Norge Indeks N",
   "page": "https://live.euronext.com/en/product/funds/NO0010827678.DKNOINN-WOMF",
   "data": [
@@ -25,7 +25,8 @@
     {"time":"2024-09-04 02:00","price":154.210599,"volume":0},
     {"time":"2024-09-05 02:00","price":153.83902900000001,"volume":0},
     {"time":"2024-09-06 02:00","price":152.971756,"volume":0},
-    {"time":"2024-09-09 02:00","price":153.702832,"volume":0}
+    {"time":"2024-09-09 02:00","price":153.702832,"volume":0},
+    {"time":"2024-09-10 02:00","price":152.21742800000001,"volume":0}
   ]
 }
     
