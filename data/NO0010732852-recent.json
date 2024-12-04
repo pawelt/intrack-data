@@ -1,6 +1,6 @@
 
 {
-  "date": "2024-12-03T23:12:39.407Z",
+  "date": "2024-12-04T08:20:18.289Z",
   "name": "ODIN Global D",
   "page": "https://live.euronext.com/en/product/fund/NO0010732852.ODGLOBD-WOMF",
   "data": [
@@ -23,7 +23,8 @@
     {"time":"2024-11-25 01:00","price":321.80290000000002,"volume":0},
     {"time":"2024-11-26 01:00","price":323.2885,"volume":0},
     {"time":"2024-11-27 01:00","price":321.86500000000001,"volume":0},
-    {"time":"2024-11-29 01:00","price":323.6782,"volume":0}
+    {"time":"2024-11-29 01:00","price":323.6782,"volume":0},
+    {"time":"2024-12-02 01:00","price":327.31360000000001,"volume":0}
   ]
 }
     
