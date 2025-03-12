@@ -1,0 +1,9 @@
+( decoded auth: lodestar:pugsnax )
+
+curl 'https://www.xe.com/api/protected/charting-rates/?fromCurrency=PLN&toCurrency=NOK&crypto=true' \
+
+           -H 'Authorization: Basic bG9kZXN0YXI6cHVnc25heA==' | jq '.batchList | last .rates | last - first'
+
+https://live.euronext.com/nb/ajax/getFactsheetInfoBlock/FUNDS/NO0010337678.DINOTEC-WOMF/fs_fund_nav_block
+
+https://live.euronext.com/nb/product/funds/NO0010337678.DINOTEC-WOMF
