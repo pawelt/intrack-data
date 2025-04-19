@@ -1,11 +1,10 @@
 
 {
-  "date": "2025-04-18T23:18:56.481Z",
+  "date": "2025-04-19T01:37:55.783Z",
   "name": "ODIN Eiendom D",
   "page": "https://live.euronext.com/en/product/fund/NO0010748155.ODEIEND-WOMF",
   "data": [
-    {"time":"2025-03-17 01:00","price":222.99709999999999,"volume":""},
-    {"time":"2025-03-18 01:00","price":221.70169999999999,"volume":0},
+    {"time":"2025-03-18 01:00","price":221.70169999999999,"volume":""},
     {"time":"2025-03-19 01:00","price":219.0514,"volume":0},
     {"time":"2025-03-20 01:00","price":218.4393,"volume":0},
     {"time":"2025-03-21 01:00","price":216.4057,"volume":0},
