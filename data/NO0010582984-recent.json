@@ -1,6 +1,6 @@
 
 {
-  "date": "2025-08-04T23:23:26.473Z",
+  "date": "2025-08-05T02:03:50.013Z",
   "name": "DNB Global Indeks A",
   "page": "https://live.euronext.com/nb/product/funds/NO0010582984.DKGLBIX-WOMF",
   "data": [
@@ -21,7 +21,8 @@
     {"time":"2025-07-25 02:00","price":768.28805199999999,"volume":0},
     {"time":"2025-07-29 02:00","price":769.01178800000002,"volume":0},
     {"time":"2025-07-30 02:00","price":769.67887399999995,"volume":0},
-    {"time":"2025-07-31 02:00","price":768.09947,"volume":0}
+    {"time":"2025-07-31 02:00","price":768.09947,"volume":0},
+    {"time":"2025-08-01 02:00","price":755.59285599999998,"volume":0}
   ]
 }
     
