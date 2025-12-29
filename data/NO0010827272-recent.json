@@ -1,11 +1,10 @@
 
 {
-  "date": "2025-12-27T08:14:30.347Z",
+  "date": "2025-12-29T08:38:28.235Z",
   "name": "DNB Global Indeks N",
   "page": "https://live.euronext.com/en/product/fund/NO0010827272.DKGLOIN-WOMF",
   "data": [
-    {"time":"2025-11-26 01:00","price":235.58638999999999,"volume":""},
-    {"time":"2025-11-28 01:00","price":234.716463,"volume":0},
+    {"time":"2025-11-28 01:00","price":234.716463,"volume":""},
     {"time":"2025-12-01 01:00","price":233.777514,"volume":0},
     {"time":"2025-12-02 01:00","price":234.443826,"volume":0},
     {"time":"2025-12-03 01:00","price":233.784109,"volume":0},
