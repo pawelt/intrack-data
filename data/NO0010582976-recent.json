@@ -1,11 +1,10 @@
 
 {
-  "date": "2026-05-20T23:21:38.952Z",
+  "date": "2026-05-21T04:00:44.975Z",
   "name": "DNB Norge Indeks A",
   "page": "https://live.euronext.com/nb/product/funds/NO0010582976.DKNORIX-WOMF",
   "data": [
-    {"time":"2026-04-17 02:00","price":548.03639299999998,"volume":""},
-    {"time":"2026-04-20 02:00","price":551.27230399999996,"volume":0},
+    {"time":"2026-04-20 02:00","price":551.27230399999996,"volume":""},
     {"time":"2026-04-21 02:00","price":554.92593199999999,"volume":0},
     {"time":"2026-04-22 02:00","price":556.15740600000004,"volume":0},
     {"time":"2026-04-23 02:00","price":557.904315,"volume":0},
