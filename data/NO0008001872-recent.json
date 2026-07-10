@@ -1,6 +1,6 @@
 
 {
-  "date": "2026-07-10T03:34:51.999Z",
+  "date": "2026-07-10T11:09:45.156Z",
   "name": "DNB Europa Indeks A",
   "page": "https://live.euronext.com/en/product/funds/NO0008001872.DKEUROP-WOMF",
   "data": [
@@ -24,7 +24,8 @@
     {"time":"2026-07-03 02:00","price":345.988788,"volume":0},
     {"time":"2026-07-06 02:00","price":344.274719,"volume":0},
     {"time":"2026-07-07 02:00","price":341.17852900000003,"volume":0},
-    {"time":"2026-07-08 02:00","price":334.97657400000003,"volume":0}
+    {"time":"2026-07-08 02:00","price":334.97657400000003,"volume":0},
+    {"time":"2026-07-09 02:00","price":336.36034799999999,"volume":0}
   ]
 }
     
